@@ -1,2 +1,3 @@
 # hello-world
 Place to store ideas, resources, share and discuss things with others
+   - following the Hello World intro...
